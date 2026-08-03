@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharanikambala10-bot&show_icons=true&locale=en" alt="dharanikambala10-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharanikambala10-bot&" alt="dharanikambala10-bot" /></p>
+## 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
